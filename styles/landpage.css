@@ -1,0 +1,213 @@
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border-bottom: solid thin ;
+    border-bottom-color: #ffffff;
+
+}
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.flex-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#newsletter {
+    width: 400px;
+    display: flex;
+}
+input[name="email"] {
+    width: 70%;
+    border: solid; 
+    border-color: #05b4ff;
+    padding: 15px 10px 14px;
+}
+button {
+    border: none;   
+}
+#btn-form {
+    background-color: #1499ff;
+    border-radius: 3px;
+}
+#btn-ctt {
+    margin: 15px;
+    width: 150px;
+    font-weight: 900;
+    font-family: Arial;
+    padding: 17px 8px 15px;
+}
+
+
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    color: #fff;
+    padding: 17px 8px 15px;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: .5px;
+    border-radius: 6px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    font-weight: 900;
+    font-family: Arial;
+    fill: #FFF;
+    background-color: #05b4ff;
+}
+
+
+.description {
+    font-family:'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+body {
+    font-family:'Source Sans Pro', sans-serif;
+    background-color: #dedcdc;
+    margin: 0;
+} 
+
+#spaceship {
+    
+    background-color: #05b4ff;
+}
+
+.logo-nome {
+    margin: 5px 15px ;
+    display: flex;
+}
+#logo {
+    width: 60px;
+    height: 70px;
+}
+#companhia {
+    font-family: 'Source Sans Pro', cursive;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 10px;
+    padding-top: 12px;
+
+}
+
+
+.products {
+    background-color: blue;
+}
+
+#texto-2 {
+    width: 60%;
+}
+
+.flights {
+    background-image: url("../assets/2.png");
+    background-repeat: no-repeat;
+    background-position: right top; 
+    padding: 30px 40px;
+    
+    font-family: 'Montserrat', Arial, sans-serif;
+    background-color: #05b4ff;
+}
+
+.titulo {
+    font-size: 60px;
+    font-weight: 800;
+    font-family: 'Montserrat', Arial, sans-serif;
+    color: #05b4ff;
+    text-align: center;
+}
+
+.subtitulo {
+    
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    font-family: 'Montserrat', Arial, sans-serif;
+
+}
+
+.description2 {
+    
+    max-width: 350px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #fff;
+    font-family: 'Montserrat', Arial, sans-serif;
+}
+
+.flex-line {
+    margin: 20px 0px;
+    display: flex;
+    background-color: #05b4ff;
+    padding: 3px 0px;
+    max-width: 80%;
+    border-radius: 2px;
+    
+}
+.my-input {
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 10px;
+    color: gray;
+    opacity: 0.3px;
+    border: none;
+    margin: 0px 3px
+}
+.origem, .destino {
+    width: 30%;
+}
+
+.ida, .volta {
+    width: 20%;
+}
+
+
+.presentation {
+    margin-top: 80px;
+    padding: 0px 30px 15px;
+    display: flex;
+    background-color: rgb(29, 236, 191);
+}
+
+.presentation-card {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.presentation-img {
+    width: 50%;
+}
+
+
+.imagem-principal {
+    height: 550px;
+    width: 600px;
+}
+
+header {
+    background-color: rgb(162, 187, 255);
+}
+
+a {
+    color: inherit;
+}
+
+footer {
+    text-align: center;
+    font-size:16px;
+    font-weight: 600;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    color: #fff;
+    background-color: #05b4ff;
+    padding: 5px 0px;
+}
