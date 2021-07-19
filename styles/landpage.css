@@ -33,7 +33,7 @@ button {
     border: none;   
 }
 #btn-form {
-    background-color: #ffe600;
+    background-color: #000000;
     border-radius: 3px;
 }
 #btn-ctt {
@@ -61,7 +61,7 @@ button {
     font-weight: 900;
     font-family: Arial;
     fill: #FFF;
-    background-color: #fcff40;
+    background-color: #000000;
 }
 
 
@@ -112,7 +112,7 @@ body {
     font-size: 60px;
     font-weight: 800;
     font-family: 'Montserrat', Arial, sans-serif;
-    color: #ffee00;
+    color: #020200;
     text-align: center;
 }
 
@@ -137,35 +137,18 @@ body {
 .flex-line {
     margin: 20px 0px;
     display: flex;
-    background-color: #05b4ff;
+    background-color: #ffffff;
     padding: 3px 0px;
     max-width: 80%;
     border-radius: 2px;
     
 }
-.my-input {
-    background-color: #fff;
-    border-radius: 3px;
-    padding: 10px;
-    color: rgb(0, 0, 0);
-    opacity: 0.3px;
-    border: none;
-    margin: 0px 3px
-}
-.origem, .destino {
-    width: 30%;
-}
-
-.ida, .volta {
-    width: 20%;
-}
-
 
 .presentation {
     margin-top: 80px;
     padding: 0px 30px 15px;
     display: flex;
-    background-color: rgb(255, 238, 0);
+    background-color: rgb(0, 0, 0);
 }
 
 .presentation-card {
@@ -177,7 +160,6 @@ body {
 .presentation-img {
     width: 50%;
 }
-
 
 .imagem-principal {
     height: 550px;
@@ -197,7 +179,7 @@ footer {
     font-size:16px;
     font-weight: 600;
     font-family: 'Source Sans Pro', Arial, sans-serif;
-    color: #fff;
+    color: rgb(255, 230, 0);
     background-color: #000000;
     padding: 5px 0px;
 }
