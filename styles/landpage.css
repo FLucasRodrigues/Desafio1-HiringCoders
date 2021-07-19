@@ -26,14 +26,14 @@ header {
 input[name="email"] {
     width: 70%;
     border: solid; 
-    border-color: #05b4ff;
+    border-color: #ffee00;
     padding: 15px 10px 14px;
 }
 button {
     border: none;   
 }
 #btn-form {
-    background-color: #1499ff;
+    background-color: #000000;
     border-radius: 3px;
 }
 #btn-ctt {
@@ -61,7 +61,7 @@ button {
     font-weight: 900;
     font-family: Arial;
     fill: #FFF;
-    background-color: #05b4ff;
+    background-color: #fcff40;
 }
 
 
@@ -72,13 +72,13 @@ button {
 }
 body {
     font-family:'Source Sans Pro', sans-serif;
-    background-color: #dedcdc;
+    background-color: #ffffff;
     margin: 0;
 } 
 
 #spaceship {
     
-    background-color: #05b4ff;
+    background-color: #000000;
 }
 
 .logo-nome {
@@ -101,7 +101,7 @@ body {
 
 
 .products {
-    background-color: blue;
+    background-color: rgb(0, 0, 0);
 }
 
 #texto-2 {
@@ -112,7 +112,7 @@ body {
     font-size: 60px;
     font-weight: 800;
     font-family: 'Montserrat', Arial, sans-serif;
-    color: #05b4ff;
+    color: #ffee00;
     text-align: center;
 }
 
@@ -165,7 +165,7 @@ body {
     margin-top: 80px;
     padding: 0px 30px 15px;
     display: flex;
-    background-color: rgb(29, 236, 191);
+    background-color: rgb(0, 0, 0);
 }
 
 .presentation-card {
@@ -185,7 +185,7 @@ body {
 }
 
 header {
-    background-color: rgb(162, 187, 255);
+    background-color: rgb(0, 0, 0);
 }
 
 a {
@@ -198,6 +198,6 @@ footer {
     font-weight: 600;
     font-family: 'Source Sans Pro', Arial, sans-serif;
     color: #fff;
-    background-color: #05b4ff;
+    background-color: #000000;
     padding: 5px 0px;
 }
