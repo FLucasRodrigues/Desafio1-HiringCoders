@@ -33,7 +33,7 @@ button {
     border: none;   
 }
 #btn-form {
-    background-color: #000000;
+    background-color: #ffe600;
     border-radius: 3px;
 }
 #btn-ctt {
@@ -101,7 +101,7 @@ body {
 
 
 .products {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
 }
 
 #texto-2 {
@@ -147,7 +147,7 @@ body {
     background-color: #fff;
     border-radius: 3px;
     padding: 10px;
-    color: gray;
+    color: rgb(0, 0, 0);
     opacity: 0.3px;
     border: none;
     margin: 0px 3px
@@ -165,7 +165,7 @@ body {
     margin-top: 80px;
     padding: 0px 30px 15px;
     display: flex;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 238, 0);
 }
 
 .presentation-card {
@@ -185,7 +185,7 @@ body {
 }
 
 header {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
 }
 
 a {
